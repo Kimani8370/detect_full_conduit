@@ -1,0 +1,1 @@
+function full_conduit:valid_conduit_check with storage conduit_pos

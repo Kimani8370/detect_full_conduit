@@ -1,0 +1,13 @@
+{
+    "condition": "minecraft:all_of",
+    "terms": [
+        {
+            "condition": "minecraft:reference",
+            "name": "full_conduit:check_conduit"
+        },
+        {
+            "condition": "minecraft:reference",
+            "name": "full_conduit:check_primarine"
+        }
+    ]
+}

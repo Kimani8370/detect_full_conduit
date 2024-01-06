@@ -1,0 +1,2 @@
+advancement revoke @s only full_conduit:placed_conduit_frame
+schedule function full_conduit:conduit_frame_check_macro 2t
